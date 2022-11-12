@@ -8,9 +8,9 @@
 [English](https://medium.com/@luisivan.umpire/why-do-our-customers-leave-7bab3552c2b6)
 
 
-El proyecto tiene un enfoque de aplicación de Ciencia de datos a los negocios, [puedes leer el artículo en]([https://medium.com/pagina-entrada-blog](https://medium.com/@luisivan.umpire/por-qué-se-van-nuestros-clientes-bd877cd9a593) o [Ver código de Python en GitHub](https://github.com/luisivanumpire/telco_churn/blob/Python/Notebook/churn_telco_notebook.ipynb)
+El proyecto tiene un enfoque de aplicación de Ciencia de Datos a los negocios, [puedes leer el artículo en Español](https://medium.com/@luisivan.umpire/por-qué-se-van-nuestros-clientes-bd877cd9a593) o [You can read it in English](https://medium.com/@luisivan.umpire/por-qué-se-van-nuestros-clientes-bd877cd9a593) y [Ver código de Python en GitHub.](https://github.com/luisivanumpire/telco_churn/blob/Python/Notebook/churn_telco_notebook.ipynb)
 
-[<img src="images/dummy_thumbnail.jpg?raw=true"/>](https://medium.com/pagina-entrada-blog)
+[<img src="images/dummy_thumbnail.jpg?raw=true"/>](https://medium.com/@luisivan.umpire/why-do-our-customers-leave-7bab3552c2b6)
 
 ---
 
@@ -19,7 +19,6 @@ El proyecto tiene un enfoque de aplicación de Ciencia de datos a los negocios, 
 - Python
 - R
 - Matlab
-- ...
 
 ---
 
