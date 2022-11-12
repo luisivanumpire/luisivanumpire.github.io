@@ -1,14 +1,14 @@
-title: Tu nombre y apellido # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Ivan Umpire # your name (or website title) here
+logo: "/images/fotoivan.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data Scientist, Ciudad, País
+  Data Scientist, Lima, Perú
   <br><br>
-  Mi objetivo es ___________
+  Tengo experiencia en Data Science aplicado a Negocios
   <br><br>
-  Tengo experiencia en ___________
+  Experience in Data Science for Business
   <br><br>
-  <a href="https://www.linkedin.com/in/tulinkedin/">Entra a mi perfil de LinkedIn</a> 
+  <a href="https://www.linkedin.com/in/ivan-umpire-696a6826/">Perfil de LinkedIn / Profile</a> 
   <br><br>
-  <a href="/pdf/plantilla-curriculum-blanco.pdf">Mira mi Curriculum Vitae (CV) </a> 
+  <a href="/pdf/plantilla-curriculum-blanco.pdf">Curriculum Vitae / Resume </a> 
   
 theme: jekyll-theme-minimal
